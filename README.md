@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### hello human
+## i am mixerno
+## i add sometimes files here or projects.
+## and i develop the mixerno.space site.
+## thanks
 <!--
 **Mixerno/mixerno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
