@@ -1,19 +1,19 @@
-# hello human
-## i am mixerno
-## i add sometimes files here or projects.
-## and i develop the mixerno.space site.
-## thanks
-<!--
-**Mixerno/mixerno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on mixerno.space (no source code coming here. only the analytic api lol)
+- 🌱 I’m currently learning javascript and nodejs
 
-Here are some ideas to get you started:
+- 📫 How to reach me: discord: Mixerno#2985 twitter: @mixernoboi @mixernospace
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: im finnish.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+stats
+<a href="https://github.com/Nixerno">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mixerno&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Mixerno">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mixerno&theme=radical" />
+</a>
+<a href="https://github.com/Mixerno">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mixerno&theme=radical" />
+</a>
+
