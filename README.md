@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on mixerno.space (no source code coming here. only the analytic api lol)
+- 🔭 I’m currently working on mixerno.space (no source code coming here.)
 - 🌱 I’m currently learning javascript and nodejs (yes i suck at those 2)
 
 - 📫 How to reach me: discord: Mixerno#2985 twitter: @mixernoboi @mixernospace
