@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning javascript and nodejs (yes i suck at those 2)
 
 - 📫 How to reach me: discord: Mixerno#2985 twitter: @mixernoboi @mixernospace
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: im finnish.
 
 
